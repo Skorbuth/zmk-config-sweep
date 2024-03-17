@@ -2,4 +2,4 @@ on: [push, pull_request, workflow_dispatch]
 
 jobs:
   build:
-    uses: Skorbuth/zmk/.github/workflows/build-user-config.yml
+    uses: Skorbuth/zmk/.github/workflows/build-user-config.yml@main
