@@ -20,7 +20,6 @@
 #define MOUSE 6
 
 #include "combos.dtsi"  // requires layer aliases
-#include "leader.dtsi"  // leader key definitions
 #include "mouse.dtsi"
 #include "extra_keys.h"
 
