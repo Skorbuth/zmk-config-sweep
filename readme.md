@@ -1,4 +1,4 @@
-# urob's zmk-config
+# Skorbuth's zmk-config
 
 This is my personal [ZMK firmware](https://github.com/zmkfirmware/zmk/) configuration.
 It consists of a 34-keys base layout that is re-used for various boards, including my
@@ -135,7 +135,7 @@ After a recent round of patches, the above configuration now works with
 upstream ZMK. 
 
 Other parts of my configuration still require a few PRs that aren't yet in
-upstream ZMK. My personal [ZMK fork](https://github.com/urob/zmk) includes all
+upstream ZMK. My personal [ZMK fork](https://github.com/Skorbuth/zmk) includes all
 PRs needed to compile my configuration. If you prefer to maintain your own fork
 with a custom selection of PRs, you might find this [ZMK-centric introduction
 to Git](https://gist.github.com/urob/68a1e206b2356a01b876ed02d3f542c7) helpful.
