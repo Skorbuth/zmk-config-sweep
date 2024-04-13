@@ -72,4 +72,6 @@ ZMK_COMBO(euro,  &euro_sign,    RM2 RB2,     DEF NAV NUM, COMBO_TERM_SLOW)
 ZMK_COMBO(pipe,  &kp PIPE,      RM3 RB3,     DEF NAV NUM, COMBO_TERM_SLOW)
 
 /* two hand combos */
-ZMK_COMBO(pscrn, &kp PSCRN,     LT0 RT0,     DEF NAV NUM, COMBO_TERM_SLOW)
+ZMK_COMBO(pscrn,    &kp PSCRN,  LT0 RT0,     DEF NAV NUM, COMBO_TERM_SLOW)
+ZMK_COMBO(capsword, &caps_word, LB0 RB0,     DEF NAV NUM, COMBO_TERM_SLOW) 
+
